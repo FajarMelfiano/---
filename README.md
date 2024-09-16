@@ -6,10 +6,7 @@
 Hi, I'm Fajar Melfiano, a passionate software developer with a love for creating innovative solutions. I specialize in web development and have experience with various programming languages and frameworks.
 
 ## Skills
-- **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-red) ![C++](https://img.shields.io/badge/-C++-blue)
-- **Frameworks:** ![React](https://img.shields.io/badge/-React-blue) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Django](https://img.shields.io/badge/-Django-green) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
-- **Tools:** ![Git](https://img.shields.io/badge/-Git-black) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue) ![Jenkins](https://img.shields.io/badge/-Jenkins-red)
-- **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=default)
 
 ## Projects
 ### [Awesome Web App](https://github.com/username/awesome-web-app)
@@ -21,6 +18,6 @@ Hi, I'm Fajar Melfiano, a passionate software developer with a love for creating
 - **Technologies:** Python, scikit-learn, pandas
 
 ## Contact
-- **Email:** [fajar.melfiano@example.com](mailto:fajar.melfiano@example.com)
+- **Email:** [fajarmelfiano@@gmail.com](mailto:fajarmelfiano@gmail.com)
 - **LinkedIn:** [Fajar Melfiano](https://www.linkedin.com/in/fajarmelfiano)
-- **GitHub:** [github.com/username](https://github.com/username)
+- **GitHub:** [github.com/fajarmelfiano](https://github.com/fajarmelfiano)
