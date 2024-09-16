@@ -6,7 +6,7 @@
 Hi, I'm Fajar Melfiano, a passionate software developer with a love for creating innovative solutions. I specialize in web development and have experience with various programming languages and frameworks.
 
 ## Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajarmelfiano&layout=compact&theme=default)
 
 ## Projects
 ### [Awesome Web App](https://github.com/username/awesome-web-app)
